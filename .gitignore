@@ -1,3 +1,5 @@
 terraform.tfstate
 main_dir/terraform.tfstate
 main_dir/terraform.tfstate.backup
+aws/*.tfstate
+aws/*.tfstate.backup
